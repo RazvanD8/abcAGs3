@@ -1,0 +1,7 @@
+6
+511 Kopierpapier 60 4.99
+505 Netzkabel 5 14.99
+442 SmartWatch 35 220.0
+404 Drucker 12 249.9
+485 Notebook 15 800.0
+7 CurulLuiDavid 1 50.99
